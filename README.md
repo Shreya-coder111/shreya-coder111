@@ -13,3 +13,21 @@
   "current_project": "Student Management System",
   "motto": "Learn. Code. Repeat."
 }
+
+### 🛠️ My Tech Toolbox
+[C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+[Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
+[GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 My GitHub Journey
+<img src="https://github-readme-stats.vercel.app/api?username=Shreya-coder111&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-coder111&theme=tokyonight&hide_border=true&background=0D1117" width="48%"/>
+
+### 📸 Recent Work
+[Student Management System Output](https://files.catbox.moe/l3wrl1.jpg)
+
+<img src="https://github.com/Shreya-coder111/Shreya-coder111/blob/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
+</div>
