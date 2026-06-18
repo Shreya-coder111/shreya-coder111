@@ -15,14 +15,9 @@
 }
 ```
 
-
-
 ### 🛠️ My Tech Toolbox
 
-[C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-### 🛠️ My Tech Toolbox
-
-[C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) [VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) [Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white) [GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white) [Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white) [GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)
+[C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) [VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) [Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white) [GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 My GitHub Journey
 
