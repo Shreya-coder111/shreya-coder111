@@ -18,14 +18,22 @@
 ### 🛠️ My Tech Toolbox
 
 [C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
 [HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 [CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 [SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 [Logisim](https://img.shields.io/badge/Logisim-FF8C00?style=for-the-badge&logo=data&logoColor=white)
+
 [EMU8086](https://img.shields.io/badge/EMU8086-00BCD4?style=for-the-badge&logo=codeforces&logoColor=white)
+
 [VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 [Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
+
 [GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 My GitHub Journey
