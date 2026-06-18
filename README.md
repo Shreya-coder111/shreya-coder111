@@ -12,7 +12,8 @@
   "passion": "C Programming",
   "current_project": "Student Management System",
   "motto": "Learn. Code. Repeat."
-}```
+}
+```
 
 
 
