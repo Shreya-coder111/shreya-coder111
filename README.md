@@ -8,9 +8,9 @@
 
 ### 💻 About Me
 
-- 📚 B.Tech CSE Student, passionate about coding & problem solving
+- 📚 MSCIT Student from Gujarat university at Ahmedabad Gujarat India, passionate about coding & problem solving
 - 💻 Love building things with code and learning something new every day
-- 🚀 Currently exploring: DSA, Web Development & Embedded Systems
+- 🚀 Currently exploring: DSA, Web Development,SQL Database & Embedded Systems
 - 🎯 Goal: Turn ideas into real projects with code
 
 ### 🛠️ My Tech Toolbox
