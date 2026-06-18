@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e4e97e57-5467-4442-8413-82cf78ea1fe6.gif" width="100%">
 
-# 👩‍💻 About Me
+### 👩‍💻 About Me
 ```json
 {
   "name": "Shreya",
@@ -14,16 +14,16 @@
   "motto": "Learn. Code. Repeat."
 }
 
-# 🛠️ My Tech Toolbox
+### 🛠️ My Tech Toolbox
 [C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 [Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
 [GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 My GitHub Journey
+### 📊 My GitHub Journey
 <img src="https://github-readme-stats.vercel.app/api?username=Shreya-coder111&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-coder111&theme=tokyonight&hide_border=true&background=0D1117" width="48%"/>
 
-#📸 Recent Work
+### 📸 Recent Work
 [Student Management System Output](https://files.catbox.moe/l3wrl1.jpg)
 
 <img src="https://github.com/Shreya-coder111/Shreya-coder111/blob/output/snake.svg" alt="Snake animation" />
