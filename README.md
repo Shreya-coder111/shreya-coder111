@@ -45,8 +45,6 @@
 
 [Student Management System Output](https://files.catbox.moe/l3wrl1.jpg)
 
-<img src="https://github.com/Shreya-coder111/Shreya-coder111/blob/output/snake.svg" alt="Snake animation" />
-
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote"/>
 </div>
