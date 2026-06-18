@@ -4,16 +4,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e4e97e57-5467-4442-8413-82cf78ea1fe6.gif" width="100%">
 
-### 👩‍💻 About Me
-```json
-{
-  "name": "Shreya",
-  "studying": "MSCIT",
-  "passion": "C Programming",
-  "current_project": "Student Management System",
-  "motto": "Learn. Code. Repeat."
-}
-```
+### 👋 Hi, I'm Shreya!
+
+### 💻 About Me
+
+- 📚 B.Tech CSE Student, passionate about coding & problem solving
+- 💻 Love building things with code and learning something new every day
+- 🚀 Currently exploring: DSA, Web Development & Embedded Systems
+- 🎯 Goal: Turn ideas into real projects with code
 
 ### 🛠️ My Tech Toolbox
 
